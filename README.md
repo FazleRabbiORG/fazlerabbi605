@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Fazle Rabbi</h1>
 <h3 align="center">Frontend developer from Bangladesh</h3>
 
-<p align="left"> <a href="https://twitter.com/fazlerabbidev92" target="blank"><img src="https://img.shields.io/twitter/follow/fazlerabbidev92?logo=twitter&style=for-the-badge" alt="fazlerabbidev92" /></a> [(https://img.shields.io/badge/-FazleRabbi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fazlerabbidev92/)](https://www.linkedin.com/in/fazlerabbidev92/) </p>
+[![Website](https://img.shields.io/website?label=fazlerabbidev92&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://fazlerabbidev92.netlify.app/)
+[![Twitter Follow](https://img.shields.io/twitter/follow/fazlerabbidev92?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Ffazlerabbidev92&screen_name=fazlerabbidev92)
 
 - 🔭 I’m currently working on **Some new Projects**
 
