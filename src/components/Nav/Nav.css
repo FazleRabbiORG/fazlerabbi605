@@ -1,0 +1,6 @@
+.pNav{
+    height: 40px;
+    background-color: #5e13e5;
+    position: sticky;
+    z-index: 1;
+}
